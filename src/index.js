@@ -1,8 +1,10 @@
-import React, { useState } from "react";
+import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
 // import "./styles.css";
+
+// import Geolocation from "./Geolocation";
 
 // import Converter from "./Converter";
 
@@ -38,6 +40,8 @@ root.render(
     {/* <Test /> */}
 
     {/* <TextExpander /> */}
+
+    {/* <Geolocation /> */}
 
     {/* <Converter /> */}
   </React.StrictMode>
